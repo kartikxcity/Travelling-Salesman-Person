@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Backend specific (optional)
+backend/node_modules/
+
+# Build artifacts
+build/
+backend/build/
+*.exe
+*.o
+*.obj
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
