@@ -8,7 +8,7 @@ This project combines a **C++ backend (for high-performance algorithm execution)
 
 ## 👨‍💻 Author
 
-**Aditya Bhardwaj**
+**Kartik Sareen**
 B.Tech CSE
 
 ---
